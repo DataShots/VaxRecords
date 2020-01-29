@@ -1,2 +1,0 @@
-# VaxRecords
-LaunchCode liftOff project
