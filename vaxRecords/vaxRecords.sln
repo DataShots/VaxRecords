@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vaxRecords", "vaxRecords.csproj", "{05FE4298-D8C9-4765-9939-357B0052444A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaxRecords", "VaxRecords.csproj", "{6708FB51-911A-4715-812A-F7CDC901E32E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{05FE4298-D8C9-4765-9939-357B0052444A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05FE4298-D8C9-4765-9939-357B0052444A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05FE4298-D8C9-4765-9939-357B0052444A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05FE4298-D8C9-4765-9939-357B0052444A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6708FB51-911A-4715-812A-F7CDC901E32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6708FB51-911A-4715-812A-F7CDC901E32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6708FB51-911A-4715-812A-F7CDC901E32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6708FB51-911A-4715-812A-F7CDC901E32E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {538B851B-3FF5-418A-B754-5A901FB80638}
+		SolutionGuid = {87573E4B-F755-42A6-9C21-B60DCEEDB812}
 	EndGlobalSection
 EndGlobal

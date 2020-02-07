@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using vaxRecords.Models;
+using VaxRecords.Models;
 
-namespace vaxRecords.Controllers
+namespace VaxRecords.Controllers
 {
     public class HomeController : Controller
     {

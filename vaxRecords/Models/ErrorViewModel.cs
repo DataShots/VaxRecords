@@ -1,6 +1,6 @@
 using System;
 
-namespace vaxRecords.Models
+namespace VaxRecords.Models
 {
     public class ErrorViewModel
     {

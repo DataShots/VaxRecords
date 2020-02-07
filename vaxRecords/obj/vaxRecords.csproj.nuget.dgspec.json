@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simpa\\Desktop\\DataShots\\vaxRecords\\vaxRecords.csproj": {}
+    "C:\\Users\\simpa\\source\\repos\\VaxRecords\\VaxRecords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simpa\\Desktop\\DataShots\\vaxRecords\\vaxRecords.csproj": {
+    "C:\\Users\\simpa\\source\\repos\\VaxRecords\\VaxRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simpa\\Desktop\\DataShots\\vaxRecords\\vaxRecords.csproj",
-        "projectName": "vaxRecords",
-        "projectPath": "C:\\Users\\simpa\\Desktop\\DataShots\\vaxRecords\\vaxRecords.csproj",
+        "projectUniqueName": "C:\\Users\\simpa\\source\\repos\\VaxRecords\\VaxRecords.csproj",
+        "projectName": "VaxRecords",
+        "projectPath": "C:\\Users\\simpa\\source\\repos\\VaxRecords\\VaxRecords.csproj",
         "packagesPath": "C:\\Users\\simpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simpa\\Desktop\\DataShots\\vaxRecords\\obj\\",
+        "outputPath": "C:\\Users\\simpa\\source\\repos\\VaxRecords\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,20 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
