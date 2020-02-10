@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\vaxRecords\\Data",
+    "\\vaxRecords\\VaxRecords"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\bin",
   "PreviewInSolutionExplorer": false
 }

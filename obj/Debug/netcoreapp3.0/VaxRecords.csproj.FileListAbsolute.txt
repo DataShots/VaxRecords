@@ -33,3 +33,13 @@ C:\Users\simpa\source\repos\VaxRecords\obj\Debug\netcoreapp3.0\VaxRecords.Views.
 C:\Users\simpa\source\repos\VaxRecords\obj\Debug\netcoreapp3.0\VaxRecords.dll
 C:\Users\simpa\source\repos\VaxRecords\obj\Debug\netcoreapp3.0\VaxRecords.pdb
 C:\Users\simpa\source\repos\VaxRecords\obj\Debug\netcoreapp3.0\VaxRecords.csproj.CopyComplete
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.csprojAssemblyReference.cache
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\staticwebassets\VaxRecords.StaticWebAssets.Manifest.cache
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\staticwebassets\VaxRecords.StaticWebAssets.xml
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.RazorAssemblyInfo.cache
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.RazorAssemblyInfo.cs
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.AssemblyInfoInputs.cache
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.AssemblyInfo.cs
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.dll
+C:\Users\simpa\Desktop\DataShots\obj\Debug\netcoreapp3.0\VaxRecords.pdb
