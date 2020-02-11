@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaxRecords", "..\source\repos\VaxRecords\VaxRecords.csproj", "{345ED0AD-6275-4FF3-8CEA-F30F672154E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345ED0AD-6275-4FF3-8CEA-F30F672154E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345ED0AD-6275-4FF3-8CEA-F30F672154E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345ED0AD-6275-4FF3-8CEA-F30F672154E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345ED0AD-6275-4FF3-8CEA-F30F672154E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB760B8E-F135-492B-9602-92EBBAC4DCA2}
+	EndGlobalSection
+EndGlobal
