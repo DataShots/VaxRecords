@@ -1,0 +1,66 @@
+﻿@model IEnumerable<VaxRecords.Models.Vaccines>
+
+@{
+    ViewData["Title"] = "My Vaccination Records";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h1>My Vaccination Record</h1>
+
+<p>
+    <a asp-action="Create">Add New Vaccine</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaccine)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dose)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Method)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clinician)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vaccine)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dose)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Method)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Clinician)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VaccineId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VaccineId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VaccineId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
