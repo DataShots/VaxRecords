@@ -25,7 +25,7 @@ namespace VaxRecords.Models
         property of a User entity will hold all of the child
         entities that are related to that user entity.*/
         public ICollection<Child> Childs { get; set; }
-        
+
         //Need to work on this function
         public User()
         {
@@ -37,5 +37,5 @@ namespace VaxRecords.Models
 }
 
 
-   
+
 

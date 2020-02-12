@@ -22,5 +22,7 @@ namespace VaxRecords
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        //pasted code here acc the instructions
+
     }
 }
